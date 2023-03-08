@@ -17,16 +17,16 @@ Examples:
 
 const rules = `Rules for the Lizard-Spock Expansion of Rock Paper Scissors:
 
-- Scissors CUTS Paper
-- Paper COVERS Rock
-- Rock SMOOSHES Lizard
-- Lizard POISONS Spock
-- Spock SMASHES Scissors
-- Scissors DECAPITATES Lizard
-- Lizard EATS Paper
-- Paper DISPROVES Spock
-- Spock VAPORIZES Rock
-- Rock CRUSHES Scissors`;
+                    - Scissors CUTS Paper
+                    - Paper COVERS Rock
+                    - Rock SMOOSHES Lizard
+                    - Lizard POISONS Spock
+                    - Spock SMASHES Scissors
+                    - Scissors DECAPITATES Lizard
+                    - Lizard EATS Paper
+                    - Paper DISPROVES Spock
+                    - Spock VAPORIZES Rock
+                    - Rock CRUSHES Scissors`;
 
 
 //If statement to show help
