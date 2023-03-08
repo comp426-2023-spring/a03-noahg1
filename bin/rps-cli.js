@@ -41,5 +41,5 @@ try {
     // In case player inputs something invalid the help and rules will show
     console.log(help);
     console.log(rules);
-    process.exit(0);
+    process.exit(1);
 }
