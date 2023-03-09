@@ -1,3 +1,4 @@
+
 {
   "name": "node-rpsls",
   "version": "1.0.0",
@@ -8,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/comp426-2023-spring/a03-noahg1.git"
+    "url": "git+https://github.com/comp426-2023-spring/a03-mraymer45.git"
   },
-  "author": "noahg1",
+  "author": "mraymer45",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/comp426-2023-spring/a03-noahg1/issues"
+    "url": "https://github.com/comp426-2023-spring/a03-mraymer45/issues"
   },
-  "homepage": "https://github.com/comp426-2023-spring/a03-noahg1#readme",
+  "homepage": "https://github.com/comp426-2023-spring/a03-mraymer45#readme",
   "bin": {
     "node-rps": "./bin/rps-cli.js",
     "node-rpsls": "./bin/rpsls-cli.js"
